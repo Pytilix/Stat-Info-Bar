@@ -1,0 +1,14 @@
+## Interface: 120000
+##Title: |cff00ffffStat & Info Bar|r
+## SavedVariables: StatsFrameDB
+## IconTexture: Interface\AddOns\Stat_Info_Bar\media\logo.tga
+## Notes: Stat and Info Bar for Midnight 12.0!
+## Author: Pytilix
+## Version: 12.08
+## X-License: All Rights Reserved
+## X-Copyright: Copyright (c) 2021-2026 Pytilix. All rights reserved.
+
+tracker.lua
+sal.lua
+key.lua
+
